@@ -1,0 +1,700 @@
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:27:26 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:36:57 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:40:26 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:41:20 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:43:59 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:45:22 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:46:37 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:47:59 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:52:10 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:54:13 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:54:29 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Tue Nov 24 19:55:01 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 12:05:34 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 12:06:47 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 12:11:36 2015
+
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 12:58:25 2015
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range    [0e+00, 0e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:01:24 2015
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range    [0e+00, 0e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:03:41 2015
+
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range    [0e+00, 0e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:06:14 2015
+
+Optimize a model with 0 rows, 78058 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range    [0e+00, 0e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [0e+00, 0e+00]
+Found heuristic solution: objective 0
+Presolve removed 0 rows and 78058 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:11:56 2015
+
+Optimize a model with 4956 rows, 78058 columns and 4956 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 4956 rows and 78058 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 8 and 9 have the same name "c1_3_28"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:13:41 2015
+
+Optimize a model with 9912 rows, 78058 columns and 16996 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Presolve removed 3717 rows and 73308 columns
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraints 8 and 9 have the same name "c1_3_28"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:14:52 2015
+
+Optimize a model with 4956 rows, 78058 columns and 4956 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 4956 rows and 78058 columns
+Presolve time: 0.05s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.07 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 8 and 9 have the same name "c1_3_28"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:15:23 2015
+
+Optimize a model with 9912 rows, 78058 columns and 16996 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Presolve removed 3717 rows and 73308 columns
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraints 8 and 9 have the same name "c1_3_28"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:57:33 2015
+
+Optimize a model with 9128 rows, 78058 columns and 16212 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Presolve removed 3913 rows and 73886 columns
+Presolve time: 0.02s
+
+Explored 0 nodes (0 simplex iterations) in 0.07 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:57:53 2015
+
+Optimize a model with 4172 rows, 78058 columns and 4172 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 4172 rows and 78058 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 13:59:19 2015
+
+Optimize a model with 8344 rows, 78058 columns and 14602 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8344 rows and 78058 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:06:22 2015
+
+Optimize a model with 8380 rows, 78058 columns and 59206 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8380 rows and 78058 columns
+Presolve time: 0.06s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.08 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:07:08 2015
+
+Optimize a model with 4186 rows, 78058 columns and 21518 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 4186 rows and 78058 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:07:19 2015
+
+Optimize a model with 9142 rows, 78058 columns and 33558 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 9142 rows and 78058 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:08:37 2015
+
+Optimize a model with 9178 rows, 78058 columns and 78198 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 9178 rows and 78058 columns
+Presolve time: 0.05s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.07 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:08:58 2015
+
+Optimize a model with 9178 rows, 78058 columns and 78198 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 9178 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:10:08 2015
+
+Optimize a model with 9178 rows, 78058 columns and 78198 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [1e+00, 3e+00]
+Presolve removed 3913 rows and 56539 columns
+Presolve time: 0.03s
+
+Explored 0 nodes (0 simplex iterations) in 0.19 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:11:57 2015
+
+Optimize a model with 4222 rows, 78058 columns and 72416 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 4222 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 0 and 1 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:13:40 2015
+
+Optimize a model with 4208 rows, 78058 columns and 55070 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 4208 rows and 78058 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 0 and 1 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:13:54 2015
+
+Optimize a model with 36 rows, 78058 columns and 44640 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [0e+00, 0e+00]
+Found heuristic solution: objective 0
+Presolve removed 36 rows and 78058 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:15:37 2015
+
+Optimize a model with 4208 rows, 78058 columns and 52984 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [0e+00, 0e+00]
+Found heuristic solution: objective 0
+Presolve removed 4208 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:17:30 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:17:43 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:18:01 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:19:18 2015
+
+Optimize a model with 12566 rows, 78058 columns and 89104 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 12566 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:32:28 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.06s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.07 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:32:39 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.05s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:36:50 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.05s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:37:05 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:37:40 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:38:14 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:42:20 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:42:38 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"
+
+Gurobi 6.5.0 (mac64) logging started Wed Nov 25 14:42:54 2015
+
+Optimize a model with 8394 rows, 78058 columns and 80760 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+03]
+  RHS range       [3e+00, 3e+00]
+Found heuristic solution: objective 0
+Presolve removed 8394 rows and 78058 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+Warning: constraints 4172 and 4173 have the same name "c2_1"

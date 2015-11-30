@@ -1,0 +1,67 @@
+id,isfunda,isopen,name,prof,ta,demand,presetseat
+cs6505,1,1,"Computability, Algorithms, and Complexity",Ins Prof,Tea Assist,87,100
+cs6520,0,1,Computational Complexity Theory,Ins Prof,Tea Assist,41,100
+cs6550,0,0,Design and Analysis of Algorithms,Ins Prof,Tea Assist,151,100
+cs7520,0,0,Approximation Algorithms,Ins Prof,Tea Assist,130,100
+cs7530,0,0,Randomized Algorithms,Ins Prof,Tea Assist,127,100
+cse6140,0,0,Computational Science and Engineering Algorithms,Ins Prof,Tea Assist,147,100
+cs6601,0,1,Artificial Intelligence,Ins Prof,Tea Assist,71,100
+cs7641,1,1,Machine Learning,Ins Prof,Tea Assist,153,100
+cs6471,0,0,Computational Photography,Ins Prof,Tea Assist,77,100
+cs7495,1,0,Computer Vision,Ins Prof,Tea Assist,139,100
+cs7499,0,1,3D Reconstruction,Ins Prof,Tea Assist,12,100
+cs7636,0,1,Computational Perception,Ins Prof,Tea Assist,93,100
+cs8803mg,0,0,Special Topics: Multiview Geometry in Computer Vision,Ins Prof,Tea Assist,25,100
+cs7630,0,0,Autonomous Robotics,Ins Prof,Tea Assist,192,100
+cs7631,0,1,Autonomous Multi-Robot Systems,Ins Prof,Tea Assist,55,100
+cs7633,0,1,Human-Robot Interaction,Ins Prof,Tea Assist,116,100
+cs7649,0,1,Robot Intelligence: Planning,Ins Prof,Tea Assist,154,100
+cs8803O01,0,1,Artificial Intelligence for Robotics,Ins Prof,Tea Assist,15,100
+cs6210,1,1,Advanced Operating Systems,Ins Prof,Tea Assist,55,100
+cs6241,0,1,Compiler Design,Ins Prof,Tea Assist,85,100
+cs6250,1,1,Computer Networks,Ins Prof,Tea Assist,193,100
+cs6300,1,0,Software Development Process,Ins Prof,Tea Assist,181,100
+cs6400,0,1,Database Systems Concepts and Design,Ins Prof,Tea Assist,145,100
+cs6035,0,1,Introduction to Information Security,Ins Prof,Tea Assist,82,100
+cs6238,0,0,Real Time Systems,Ins Prof,Tea Assist,18,100
+cs6238,0,0,Secure Computer Systems,Ins Prof,Tea Assist,24,100
+cs6260,0,0,Applied Cryptography,Ins Prof,Tea Assist,132,100
+cs6262,0,0,Network Security,Ins Prof,Tea Assist,124,100
+cs6310,1,0,Software Architecture and Design,Ins Prof,Tea Assist,192,100
+cs6340,0,0,Software Analysis and Testing,Ins Prof,Tea Assist,12,100
+cs6365,0,1,Introduction to Enterprise Computing,Ins Prof,Tea Assist,133,100
+cs6422,0,1,Database System Implementation,Ins Prof,Tea Assist,98,100
+cs6550,0,1,Design and Analysis of Algorithms,Ins Prof,Tea Assist,36,100
+cs6675,0,0,Advanced Internet Computing Systems and Applications,Ins Prof,Tea Assist,5,100
+cs7210,0,0,Distributed Computing,Ins Prof,Tea Assist,49,100
+cs7260,0,1,Internetworking Architectures and Protocols,Ins Prof,Tea Assist,118,100
+s7270,0,1,Networked Applications and Services,Ins Prof,Tea Assist,157,100
+cs7290,0,0,Advanced Topics in Microarchitecture,Ins Prof,Tea Assist,32,100
+cs7292,0,0,Reliability and Security in Computer Architecture,Ins Prof,Tea Assist,60,100
+cs7560,0,1,Theory of Cryptography,Ins Prof,Tea Assist,117,100
+cs8803fpl,0,1,Special Topics: Foundations of Programming Languages,Ins Prof,Tea Assist,14,100
+cs7620,0,1,Case-Based Reasoning,Ins Prof,Tea Assist,2,100
+cs7637,1,0,Knowledge-Based AI,Ins Prof,Tea Assist,56,100
+cs6440,0,0,Introduction to Health Informatics,Ins Prof,Tea Assist,197,100
+cs6460,0,0,Educational Technology: Conceptual Foundations,Ins Prof,Tea Assist,134,100
+cs6465,0,0,Computational Journalism,Ins Prof,Tea Assist,190,100
+cs7634,0,1,AI Storytelling in Virtual Worlds,Ins Prof,Tea Assist,107,100
+cs8803ai,0,1,Special Topics: Advanced Game AI,Ins Prof,Tea Assist,199,100
+cs7632,0,1,Game AI,Ins Prof,Tea Assist,134,100
+cs7650,0,0,Natural Language,Ins Prof,Tea Assist,94,100
+cs8803csc,0,0,Special Topics: Computational Social Science,Ins Prof,Tea Assist,178,100
+cs6795,0,1,Introduction to Cognitive Science,Ins Prof,Tea Assist,162,100
+cs7610,0,1,Modeling and Design,Ins Prof,Tea Assist,93,100
+cs8803cc,0,1,Special Topics: Computational Creativity,Ins Prof,Tea Assist,33,100
+cs7510,0,0,Graph Algorithms,Ins Prof,Tea Assist,111,100
+cse6740,0,1,"Computational Data Analysis: Learning, Mining, and Computation",Ins Prof,Tea Assist,89,100
+cs7540,0,0,Spectral Algorithms,Ins Prof,Tea Assist,11,100
+cs7545,0,1,Machine Learning Theory,Ins Prof,Tea Assist,14,100
+cs7616,0,0,Pattern Recognition,Ins Prof,Tea Assist,28,100
+cs7646,0,1,Machine Learning for Trading,Ins Prof,Tea Assist,27,100
+cs7650,0,1,Natural Language,Ins Prof,Tea Assist,75,100
+cs8803pgm,0,1,Special Topics: Probabilistic Graph Models,Ins Prof,Tea Assist,31,100
+cse6240,0,0,Web Search and Text Mining,Ins Prof,Tea Assist,36,100
+cse6242,0,1,Data and Visual Analytics,Ins Prof,Tea Assist,110,100
+cs6290,1,0,High-Performance Computer Architecture,Ins Prof,Tea Assist,0,100
+cs8803ios,1,1,Introduction to Operation System,Ins Prof,Tea Assist,44,100

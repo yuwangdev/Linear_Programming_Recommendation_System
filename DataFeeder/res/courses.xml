@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<id>cs6505</id>
+<isfunda>1</isfunda>
+<isopen>1</isopen>
+<name>Computability, Algorithms, and Complexity</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>87</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6520</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Computational Complexity Theory</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>41</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6550</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Design and Analysis of Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>151</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7520</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Approximation Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>130</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7530</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Randomized Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>127</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cse6140</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Computational Science and Engineering Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>147</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6601</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Artificial Intelligence</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>71</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7641</id>
+<isfunda>1</isfunda>
+<isopen>1</isopen>
+<name>Machine Learning</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>153</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6471</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Computational Photography</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>77</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7495</id>
+<isfunda>1</isfunda>
+<isopen>0</isopen>
+<name>Computer Vision</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>139</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7499</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>3D Reconstruction</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>12</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7636</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Computational Perception</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>93</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803mg</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Special Topics: Multiview Geometry in Computer Vision</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>25</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7630</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Autonomous Robotics</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>192</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7631</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Autonomous Multi-Robot Systems</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>55</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7633</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Human-Robot Interaction</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>116</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7649</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Robot Intelligence: Planning</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>154</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803O01</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Artificial Intelligence for Robotics</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>15</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6210</id>
+<isfunda>1</isfunda>
+<isopen>1</isopen>
+<name>Advanced Operating Systems</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>55</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6241</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Compiler Design</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>85</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6250</id>
+<isfunda>1</isfunda>
+<isopen>1</isopen>
+<name>Computer Networks</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>193</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6300</id>
+<isfunda>1</isfunda>
+<isopen>0</isopen>
+<name>Software Development Process</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>181</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6400</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Database Systems Concepts and Design</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>145</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6035</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Introduction to Information Security</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>82</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6238</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Real Time Systems</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>18</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6238</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Secure Computer Systems</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>24</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6260</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Applied Cryptography</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>132</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6262</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Network Security</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>124</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6310</id>
+<isfunda>1</isfunda>
+<isopen>0</isopen>
+<name>Software Architecture and Design</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>192</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6340</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Software Analysis and Testing</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>12</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6365</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Introduction to Enterprise Computing</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>133</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6422</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Database System Implementation</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>98</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6550</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Design and Analysis of Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>36</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6675</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Advanced Internet Computing Systems and Applications</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>5</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7210</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Distributed Computing</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>49</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7260</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Internetworking Architectures and Protocols</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>118</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>s7270</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Networked Applications and Services</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>157</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7290</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Advanced Topics in Microarchitecture</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>32</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7292</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Reliability and Security in Computer Architecture</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>60</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7560</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Theory of Cryptography</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>117</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803fpl</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Special Topics: Foundations of Programming Languages</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>14</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7620</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Case-Based Reasoning</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>2</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7637</id>
+<isfunda>1</isfunda>
+<isopen>0</isopen>
+<name>Knowledge-Based AI</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>56</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6440</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Introduction to Health Informatics</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>197</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6460</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Educational Technology: Conceptual Foundations</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>134</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6465</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Computational Journalism</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>190</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7634</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>AI Storytelling in Virtual Worlds</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>107</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803ai</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Special Topics: Advanced Game AI</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>199</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7632</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Game AI</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>134</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7650</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Natural Language</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>94</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803csc</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Special Topics: Computational Social Science</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>178</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6795</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Introduction to Cognitive Science</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>162</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7610</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Modeling and Design</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>93</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803cc</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Special Topics: Computational Creativity</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>33</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7510</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Graph Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>111</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cse6740</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Computational Data Analysis: Learning, Mining, and Computation</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>89</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7540</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Spectral Algorithms</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>11</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7545</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Machine Learning Theory</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>14</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7616</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Pattern Recognition</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>28</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7646</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Machine Learning for Trading</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>27</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs7650</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Natural Language</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>75</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803pgm</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Special Topics: Probabilistic Graph Models</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>31</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cse6240</id>
+<isfunda>0</isfunda>
+<isopen>0</isopen>
+<name>Web Search and Text Mining</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>36</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cse6242</id>
+<isfunda>0</isfunda>
+<isopen>1</isopen>
+<name>Data and Visual Analytics</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>110</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs6290</id>
+<isfunda>1</isfunda>
+<isopen>0</isopen>
+<name>High-Performance Computer Architecture</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>0</demand>
+<presetseat>100</presetseat>
+</ROW>
+<ROW>
+<id>cs8803ios</id>
+<isfunda>1</isfunda>
+<isopen>1</isopen>
+<name>Introduction to Operation System</name>
+<prof>Ins Prof</prof>
+<ta>Tea Assist</ta>
+<demand>44</demand>
+<presetseat>100</presetseat>
+</ROW>
+</ROWSET>
